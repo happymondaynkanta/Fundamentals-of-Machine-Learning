@@ -4,5 +4,5 @@ This  repository introduces the basics of machine learning algorithms for prepro
 # The ML code is divided into Parts
 ## Pre-processing model
 
-## Pre-processing model
+## Regression model
 
