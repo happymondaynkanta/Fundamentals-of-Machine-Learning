@@ -6,5 +6,5 @@ This  repository introduces the basics of machine learning algorithms for prepro
 
 ## Regression model
 
-## Pre-processing model
+## Classification model
 
